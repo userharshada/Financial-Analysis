@@ -1,8 +1,8 @@
-"# Financial-Analysis" 
+## Financial-Analysis
 
-Features of the Dashboard and sql file
+# Features of the Dashboard and sql file
 
-Overview: An overview section provides key statistics and insights about the loan applicants, such as average income, credit score distribution, and the number of defaults.
+** Overview ** : An overview section provides key statistics and insights about the loan applicants, such as average income, credit score distribution, and the number of defaults.
 
 Income Analysis: A visual representation of income distribution and stability, enabling insights into the income trends of applicants.
 
